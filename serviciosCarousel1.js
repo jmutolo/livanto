@@ -1,5 +1,5 @@
 document.getElementById('serviciosCarousel').innerHTML = `
-<section class="splide" aria-label="Splide Basic HTML Example">
+<section id="servicios" class="splide" aria-label="Splide Basic HTML Example">
     <div class="splide__track">
         <ul class="splide__list">
                 <li class="splide__slide">
