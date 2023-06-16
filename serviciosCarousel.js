@@ -20,7 +20,7 @@ document.getElementById('serviciosCarousel').innerHTML = `
             </li>
             <li class="splide__slide">
                 <div class="div-put">
-                    <div class="blue _2">
+                    <div class="blue">
                         <div class="div-block-34">
                             <img src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/648c7dd620db5ec8145fb9e7_Rectangle%204%20(4).webp" loading="lazy" alt="" />
                             <div class="text-block-22">Internación domiciliaria</div>
@@ -36,7 +36,7 @@ document.getElementById('serviciosCarousel').innerHTML = `
             </li>
             <li class="splide__slide">
                 <div class="div-put">
-                    <div class="blue _3">
+                    <div class="blue">
                         <div class="div-block-34">
                             <img src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/648c7dd620db5ec8145fb9e7_Rectangle%204%20(4).webp" loading="lazy" alt="" />
                             <div class="text-block-22">Internación domiciliaria</div>
