@@ -226,6 +226,14 @@ document.getElementById('equipoSplide').innerHTML = `
             </li>
         </ul>
     </div>
+    <div class="splide__arrows">
+        <button id="splidePrev" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+            Prev
+        </button>
+        <button id="splideNext" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+            Next
+        </button>
+    </div>
 </section>
 
 `;
