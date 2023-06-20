@@ -34,6 +34,14 @@ document.getElementById('serviciosCarousel').innerHTML = `
             </li>
         </ul>
     </div>
+    <div class="splide__arrows">
+        <button id="customArrowPrev" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+            Prev
+        </button>
+        <button id="customArrowNext" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+            Next
+        </button>
+    </div>
 </section>
 
 `;
@@ -206,6 +214,14 @@ document.getElementById('splideHolder').innerHTML = `
                 </div>
             </li>
         </ul>
+    </div>
+    <div class="splide__arrows">
+        <button id="customArrowP" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+            Prev
+        </button>
+        <button id="customArrowN" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+            Next
+        </button>
     </div>
 </section>
 
