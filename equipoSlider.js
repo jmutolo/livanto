@@ -237,3 +237,31 @@ document.getElementById('equipoSplide').innerHTML = `
 </section>
 
 `;
+
+
+document.getElementById('splideStories').innerHTML = `
+<section id="storiesCarousel" class="splide" aria-label="Splide Basic HTML Example">
+    <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide">
+                <div class="div-block-44">
+                    <div class="text-block-29">Ella es Analía</div>
+                </div>
+            </li>
+            <li class="splide__slide">
+                <div class="div-block-44-copy">
+                    <div class="text-block-29">El es Alberto</div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="splide__arrows">
+        <button id="storyPrev" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+            Prev
+        </button>
+        <button id="storyNext" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+            Next
+        </button>
+    </div>
+</section>
+`;
