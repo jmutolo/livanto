@@ -246,11 +246,37 @@ document.getElementById('splideStories').innerHTML = `
             <li class="splide__slide">
                 <div class="div-block-44">
                     <div class="text-block-29">Ella es Analía</div>
+                    <img
+                        src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash.webp"
+                        loading="lazy"
+                        sizes="82vw"
+                        srcset="
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash-p-500.webp   500w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash-p-800.webp   800w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash-p-1080.webp 1080w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash.webp        1184w
+                        "
+                        alt=""
+                        class="image-56"
+                    />
                 </div>
             </li>
             <li class="splide__slide">
                 <div class="div-block-44-copy">
                     <div class="text-block-29">El es Alberto</div>
+                    <img
+                        src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1).webp"
+                        loading="lazy"
+                        sizes="82vw"
+                        srcset="
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1)-p-500.webp   500w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1)-p-800.webp   800w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1)-p-1080.webp 1080w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1).webp        1440w
+                        "
+                        alt=""
+                        class="image-56"
+                    />
                 </div>
             </li>
         </ul>
@@ -264,4 +290,5 @@ document.getElementById('splideStories').innerHTML = `
         </button>
     </div>
 </section>
+
 `;
