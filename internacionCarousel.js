@@ -92,3 +92,99 @@ document.getElementById('internacionSlider').innerHTML = `
     </div>
 </section>
 `;
+
+document.getElementById('').innerHTML `
+<section id="equipo" class="splide" aria-label="Splide Basic HTML Example">
+    <div class="splide__track">
+        <ul class="splide__list">
+            <li class="splide__slide">
+                <img
+                    src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480120229194a8bdf28a2_paciente-varon-enfermo-cama-hablando-enfermera%201%20(15).webp"
+                    loading="lazy"
+                    sizes="38vw"
+                    srcset="
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480120229194a8bdf28a2_paciente-varon-enfermo-cama-hablando-enfermera%201%20(15)-p-500.webp 500w,
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480120229194a8bdf28a2_paciente-varon-enfermo-cama-hablando-enfermera%201%20(15).webp       549w
+                    "
+                    alt=""
+                    class="image-58"
+                />
+            </li>
+            <li class="splide__slide">
+                <img
+                    src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480552230b3b4e2f208ec_paciente-varon-enfermo-cama-hablando-enfermera%201%20(16).webp"
+                    loading="lazy"
+                    sizes="38vw"
+                    srcset="
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480552230b3b4e2f208ec_paciente-varon-enfermo-cama-hablando-enfermera%201%20(16)-p-500.webp 500w,
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480552230b3b4e2f208ec_paciente-varon-enfermo-cama-hablando-enfermera%201%20(16).webp       549w
+                    "
+                    alt=""
+                    class="image-58"
+                />
+            </li>
+            <li class="splide__slide">
+                <img
+                    src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64948064a8265afa55feb726_paciente-varon-enfermo-cama-hablando-enfermera%201%20(17).webp"
+                    loading="lazy"
+                    sizes="38vw"
+                    srcset="
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64948064a8265afa55feb726_paciente-varon-enfermo-cama-hablando-enfermera%201%20(17)-p-500.webp 500w,
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64948064a8265afa55feb726_paciente-varon-enfermo-cama-hablando-enfermera%201%20(17).webp       549w
+                    "
+                    alt=""
+                    class="image-58"
+                />
+            </li>
+            <li class="splide__slide">
+                <img
+                    src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64948075269c656be4ac1831_paciente-varon-enfermo-cama-hablando-enfermera%201%20(18).webp"
+                    loading="lazy"
+                    sizes="38vw"
+                    srcset="
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64948075269c656be4ac1831_paciente-varon-enfermo-cama-hablando-enfermera%201%20(18)-p-500.webp 500w,
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64948075269c656be4ac1831_paciente-varon-enfermo-cama-hablando-enfermera%201%20(18).webp       549w
+                    "
+                    alt=""
+                    class="image-58"
+                />
+            </li>
+            <li class="splide__slide">
+                <img
+                    src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480804e455f004993dcaf_paciente-varon-enfermo-cama-hablando-enfermera%201%20(19).webp"
+                    loading="lazy"
+                    sizes="38vw"
+                    srcset="
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480804e455f004993dcaf_paciente-varon-enfermo-cama-hablando-enfermera%201%20(19)-p-500.webp 500w,
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649480804e455f004993dcaf_paciente-varon-enfermo-cama-hablando-enfermera%201%20(19).webp       549w
+                    "
+                    alt=""
+                    class="image-58"
+                />
+            </li>
+            <li class="splide__slide"></li>
+            <li class="splide__slide">
+                <img
+                    src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6494808ab6d172cb4c9eac1d_paciente-varon-enfermo-cama-hablando-enfermera%201%20(20).webp"
+                    loading="lazy"
+                    sizes="38vw"
+                    srcset="
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6494808ab6d172cb4c9eac1d_paciente-varon-enfermo-cama-hablando-enfermera%201%20(20)-p-500.webp 500w,
+                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6494808ab6d172cb4c9eac1d_paciente-varon-enfermo-cama-hablando-enfermera%201%20(20).webp       548w
+                    "
+                    alt=""
+                    class="image-58"
+                />
+            </li>
+        </ul>
+    </div>
+    <div class="splide__arrows">
+        <button id="plantelSplidePrev" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
+            Prev
+        </button>
+        <button id="plantelSplideNext" class="splide__arrow splide__arrow--next" style="opacity: 0;">
+            Next
+        </button>
+    </div>
+</section>
+`;
