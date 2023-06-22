@@ -94,7 +94,7 @@ document.getElementById('internacionSlider').innerHTML = `
 `;
 
 document.getElementById('').innerHTML `
-<section id="equipo" class="splide" aria-label="Splide Basic HTML Example">
+<section id="plantel" class="splide" aria-label="Splide Basic HTML Example">
     <div class="splide__track">
         <ul class="splide__list">
             <li class="splide__slide">
