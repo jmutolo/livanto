@@ -93,7 +93,7 @@ document.getElementById('internacionSlider').innerHTML = `
 </section>
 `;
 
-document.getElementById('').innerHTML `
+document.getElementById('splidePlantel').innerHTML `
 <section id="plantel" class="splide" aria-label="Splide Basic HTML Example">
     <div class="splide__track">
         <ul class="splide__list">
