@@ -162,7 +162,6 @@ document.getElementById('splidePlantel').innerHTML = `
                     class="image-58"
                 />
             </li>
-            <li class="splide__slide"></li>
             <li class="splide__slide">
                 <img
                     src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6494808ab6d172cb4c9eac1d_paciente-varon-enfermo-cama-hablando-enfermera%201%20(20).webp"
