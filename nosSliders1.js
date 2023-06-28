@@ -248,8 +248,8 @@ document.getElementById('splideStories').innerHTML = `
                     <div class="text-block-29">Ella es Analía</div>
                     <img
                         src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash.webp"
-                        loading="lazy"
-                        sizes="82vw"
+                        loading="eager"
+                        sizes="100vw"
                         srcset="
                             https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash-p-500.webp   500w,
                             https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931b84ee18510b47f2d25d_benjamin-brunner-wntFSQtCB2c-unsplash-p-800.webp   800w,
@@ -259,6 +259,7 @@ document.getElementById('splideStories').innerHTML = `
                         alt=""
                         class="image-56"
                     />
+                    <img src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649c77542ace1053380ba932_benjamin-brunner-wntFSQtCB2c-unsplash%20(2).webp" loading="eager" alt="" class="image-56 _56-m" />
                 </div>
             </li>
             <li class="splide__slide">
@@ -266,8 +267,8 @@ document.getElementById('splideStories').innerHTML = `
                     <div class="text-block-29">El es Alberto</div>
                     <img
                         src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1).webp"
-                        loading="lazy"
-                        sizes="82vw"
+                        loading="eager"
+                        sizes="100vw"
                         srcset="
                             https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1)-p-500.webp   500w,
                             https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64931cb887fa9e079367e6a8_benjamin-brunner-wntFSQtCB2c-unsplash%20(1)-p-800.webp   800w,
@@ -277,6 +278,7 @@ document.getElementById('splideStories').innerHTML = `
                         alt=""
                         class="image-56"
                     />
+                    <img src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/649c77bbe53d101ee2489268_benjamin-brunner-wntFSQtCB2c-unsplash%20(3).webp" loading="eager" alt="" class="image-56 _56-m" />
                 </div>
             </li>
         </ul>
