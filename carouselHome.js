@@ -1,52 +1,3 @@
-document.getElementById('serviciosCarousel').innerHTML = `
-<section id="servicios" class="splide" aria-label="Splide Basic HTML Example">
-    <div class="splide__track">
-        <ul class="splide__list">
-            <li class="splide__slide">
-                <div class="div-put">
-                    <div class="blue">
-                        <div class="div-34">
-                            <img src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/648cc0e53092f153b4fec001_Rectangle%203.webp" loading="lazy" alt="" class="image-54" />
-                            <div class="text-block-22">Aparatología e insumos</div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-put">
-                    <div class="blue">
-                        <div class="div-34">
-                            <img src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/648c7dd620db5ec8145fb9e7_Rectangle%204%20(4).webp" loading="lazy" alt="" class="image-54" />
-                            <div class="text-block-22">Internación domiciliaria</div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-put">
-                    <div class="blue">
-                        <div class="div-34">
-                            <img src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/648cc101941c4fe3611523a5_Rectangle%205.webp" loading="lazy" alt="" class="image-54" />
-                            <div class="text-block-22">Plantel Profesional</div>
-                        </div>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </div>
-    <div class="splide__arrows">
-        <button id="customArrowPrev" class="splide__arrow splide__arrow--prev" style="opacity: 0;">
-            Prev
-        </button>
-        <button id="customArrowNext" class="splide__arrow splide__arrow--next" style="opacity: 0;">
-            Next
-        </button>
-    </div>
-</section>
-
-`;
-
-
 document.getElementById('splideHolder').innerHTML = `
 <section id="aparatologia" class="splide" aria-label="Splide Basic HTML Example">
     <div class="splide__track">
@@ -70,12 +21,6 @@ document.getElementById('splideHolder').innerHTML = `
                             ortopedicas
                         </div>
                     </div>
-                    <div style="opacity: 0;" class="text-block-17">
-                        Brindamos un servicio de<br />
-                        internación domiciliaria con<br />
-                        atención médica y enfermería<br />
-                        las 24 horas.
-                    </div>
                 </div>
             </li>
             <li class="splide__slide">
@@ -96,12 +41,6 @@ document.getElementById('splideHolder').innerHTML = `
                             Sillas<br />
                             de ruedas
                         </div>
-                    </div>
-                    <div style="opacity: 0;" class="text-block-17">
-                        Brindamos un servicio de<br />
-                        internación domiciliaria con<br />
-                        atención médica y enfermería<br />
-                        las 24 horas.
                     </div>
                 </div>
             </li>
@@ -124,12 +63,6 @@ document.getElementById('splideHolder').innerHTML = `
                             descartable
                         </div>
                     </div>
-                    <div style="opacity: 0;" class="text-block-17">
-                        Brindamos un servicio de<br />
-                        internación domiciliaria con<br />
-                        atención médica y enfermería<br />
-                        las 24 horas.
-                    </div>
                 </div>
             </li>
             <li class="splide__slide">
@@ -150,12 +83,6 @@ document.getElementById('splideHolder').innerHTML = `
                             Colchones<br />
                             Antiescaras
                         </div>
-                    </div>
-                    <div style="opacity: 0;" class="text-block-17">
-                        Brindamos un servicio de<br />
-                        internación domiciliaria con<br />
-                        atención médica y enfermería<br />
-                        las 24 horas.
                     </div>
                 </div>
             </li>
@@ -178,12 +105,6 @@ document.getElementById('splideHolder').innerHTML = `
                             ortopedicas
                         </div>
                     </div>
-                    <div style="opacity: 0;" class="text-block-17">
-                        Brindamos un servicio de<br />
-                        internación domiciliaria con<br />
-                        atención médica y enfermería<br />
-                        las 24 horas.
-                    </div>
                 </div>
             </li>
             <li class="splide__slide">
@@ -204,12 +125,6 @@ document.getElementById('splideHolder').innerHTML = `
                             Camas<br />
                             ortopedicas
                         </div>
-                    </div>
-                    <div style="opacity: 0;" class="text-block-17">
-                        Brindamos un servicio de<br />
-                        internación domiciliaria con<br />
-                        atención médica y enfermería<br />
-                        las 24 horas.
                     </div>
                 </div>
             </li>
