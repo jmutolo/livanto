@@ -101,8 +101,8 @@ document.getElementById('splideHolder').innerHTML = `
                             class="image-38"
                         />
                         <div class="text-block-16">
-                            Camas<br />
-                            ortopedicas
+                            Monitores de<br />
+                            actividad cardiaca
                         </div>
                     </div>
                 </div>
@@ -122,8 +122,8 @@ document.getElementById('splideHolder').innerHTML = `
                             class="image-38"
                         />
                         <div class="text-block-16">
-                            Camas<br />
-                            ortopedicas
+                            Respiradores<br />
+                            Bombas de alimentación
                         </div>
                     </div>
                 </div>
