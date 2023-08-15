@@ -225,26 +225,6 @@ document.getElementById('splideHolder').innerHTML = `
                             class="image-38"
                         />
                         <div class="text-block-16">
-                            Colchón hospitalario<br />
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-block-24">
-                    <div data-w-id="af22760b-7890-1911-8886-edbe0453c123" class="div-block-25">
-                        <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8).webp"
-                            loading="lazy"
-                            sizes="100vw"
-                            srcset="
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56f97b7479a58b237e1_paciente-varon-enfermo-cama-hablando-enfermera%201%20(33).webp 500w,
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56f97b7479a58b237e1_paciente-varon-enfermo-cama-hablando-enfermera%201%20(33).webp 549w
-                            "
-                            alt=""
-                            class="image-38"
-                        />
-                        <div class="text-block-16">
                             Elevapiernas<br />
                         </div>
                     </div>
