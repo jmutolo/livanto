@@ -67,27 +67,6 @@ document.getElementById('splideHolder').innerHTML = `
             </li>
             <li class="splide__slide">
                 <div class="div-block-24">
-                    <div data-w-id="ff96f92a-4422-6150-4fe5-2c136994a813" class="div-block-25">
-                        <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c285ad777474d4b58b53_paciente-varon-enfermo-cama-hablando-enfermera%201%20(6).webp"
-                            loading="lazy"
-                            sizes="100vw"
-                            srcset="
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c285ad777474d4b58b53_paciente-varon-enfermo-cama-hablando-enfermera%201%20(6)-p-500.webp 500w,
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c285ad777474d4b58b53_paciente-varon-enfermo-cama-hablando-enfermera%201%20(6).webp       549w
-                            "
-                            alt=""
-                            class="image-38"
-                        />
-                        <div class="text-block-16">
-                            Colchones<br />
-                            Antiescaras
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-block-24">
                     <div data-w-id="b60123a7-ece7-74c1-3e4a-be32c86e4eab" class="div-block-25">
                         <img
                             src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7).webp"
