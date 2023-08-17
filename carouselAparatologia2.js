@@ -264,7 +264,7 @@ document.getElementById('splideHolder').innerHTML = `
                             class="image-38"
                         />
                         <div class="text-block-16">
-                           Motor de colchón<br />
+                           Motor y colchón<br />
                            antiescaras
                         </div>
                     </div>
