@@ -233,19 +233,6 @@ document.getElementById('splideInsumos').innerHTML = `
             </li>
             <li class="splide__slide">
                 <img
-                    src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c285ad777474d4b58b53_paciente-varon-enfermo-cama-hablando-enfermera%201%20(6).webp"
-                    loading="lazy"
-                    sizes="100vw"
-                    srcset="
-                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c285ad777474d4b58b53_paciente-varon-enfermo-cama-hablando-enfermera%201%20(6)-p-500.webp 500w,
-                        https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c285ad777474d4b58b53_paciente-varon-enfermo-cama-hablando-enfermera%201%20(6).webp       549w
-                    "
-                    alt=""
-                    class="image-58"
-                />
-            </li>
-            <li class="splide__slide">
-                <img
                     src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7).webp"
                     loading="lazy"
                     sizes="100vw"
