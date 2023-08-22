@@ -37,7 +37,7 @@ document.getElementById('splideHolder').innerHTML = `
                             class="image-38"
                         />
                         <div class="text-block-16">
-                            Asientos elevapacientes<br />
+                            Asientos eleva inodoro<br />
                             (descartable)
                         </div>
                     </div>
