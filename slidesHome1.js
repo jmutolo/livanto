@@ -4,112 +4,6 @@ document.getElementById('splideHolder').innerHTML = `
         <ul class="splide__list">
             <li class="splide__slide">
                 <div class="div-block-24">
-                    <div data-w-id="a48a5734-dc7a-3f4b-3e66-4ccf5a82fa7e" class="div-block-25">
-                        <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c24bdd8cb2e7ae4b01e9_paciente-varon-enfermo-cama-hablando-enfermera%201%20(3).webp"
-                            loading="lazy"
-                            sizes="100vw"
-                            srcset="
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c24bdd8cb2e7ae4b01e9_paciente-varon-enfermo-cama-hablando-enfermera%201%20(3)-p-500.webp 500w,
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c24bdd8cb2e7ae4b01e9_paciente-varon-enfermo-cama-hablando-enfermera%201%20(3).webp       548w
-                            "
-                            alt=""
-                            class="image-38"
-                        />
-                        <div class="text-block-16">
-                            Camas<br />
-                            ortopedicas
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-block-24">
-                    <div data-w-id="d0e902d4-3f13-ceaf-aec7-a89697c91f96" class="div-block-25">
-                        <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c26804e004c0f04b57e0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(4).webp"
-                            loading="lazy"
-                            sizes="100vw"
-                            srcset="
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c26804e004c0f04b57e0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(4)-p-500.webp 500w,
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c26804e004c0f04b57e0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(4).webp       549w
-                            "
-                            alt=""
-                            class="image-38"
-                        />
-                        <div class="text-block-16">
-                            Sillas<br />
-                            de ruedas
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-block-24">
-                    <div data-w-id="5c241397-7acc-8b78-cd98-9781aee7a83f" class="div-block-25">
-                        <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c279974f1c1eee01d07c_paciente-varon-enfermo-cama-hablando-enfermera%201%20(5).webp"
-                            loading="lazy"
-                            sizes="100vw"
-                            srcset="
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c279974f1c1eee01d07c_paciente-varon-enfermo-cama-hablando-enfermera%201%20(5)-p-500.webp 500w,
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c279974f1c1eee01d07c_paciente-varon-enfermo-cama-hablando-enfermera%201%20(5).webp       549w
-                            "
-                            alt=""
-                            class="image-38"
-                        />
-                        <div class="text-block-16">
-                            Material<br />
-                            descartable
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-block-24">
-                    <div data-w-id="b60123a7-ece7-74c1-3e4a-be32c86e4eab" class="div-block-25">
-                        <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7).webp"
-                            loading="lazy"
-                            sizes="100vw"
-                            srcset="
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7)-p-500.webp 500w,
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7).webp       549w
-                            "
-                            alt=""
-                            class="image-38"
-                        />
-                        <div class="text-block-16">
-                            Monitores de<br />
-                            actividad cardiaca
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <li class="splide__slide">
-                <div class="div-block-24">
-                    <div data-w-id="af22760b-7890-1911-8886-edbe0453c123" class="div-block-25">
-                        <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8).webp"
-                            loading="lazy"
-                            sizes="100vw"
-                            srcset="
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8)-p-500.webp 500w,
-                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8).webp       549w
-                            "
-                            alt=""
-                            class="image-38"
-                        />
-                        <div class="text-block-16">
-                            Respiradores<br />
-                            Bombas de alimentación
-                        </div>
-                    </div>
-                </div>
-            </li>
-            <!--Adicion-->
-            <li class="splide__slide">
-                <div class="div-block-24">
                     <div data-w-id="af22760b-7890-1911-8886-edbe0453c123" class="div-block-25">
                         <img
                             src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8).webp"
@@ -145,6 +39,27 @@ document.getElementById('splideHolder').innerHTML = `
                         <div class="text-block-16">
                             Asientos elevapacientes<br />
                             (descartable)
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="splide__slide">
+                <div class="div-block-24">
+                    <div data-w-id="a48a5734-dc7a-3f4b-3e66-4ccf5a82fa7e" class="div-block-25">
+                        <img
+                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c24bdd8cb2e7ae4b01e9_paciente-varon-enfermo-cama-hablando-enfermera%201%20(3).webp"
+                            loading="lazy"
+                            sizes="100vw"
+                            srcset="
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c24bdd8cb2e7ae4b01e9_paciente-varon-enfermo-cama-hablando-enfermera%201%20(3)-p-500.webp 500w,
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c24bdd8cb2e7ae4b01e9_paciente-varon-enfermo-cama-hablando-enfermera%201%20(3).webp       548w
+                            "
+                            alt=""
+                            class="image-38"
+                        />
+                        <div class="text-block-16">
+                            Cama ortopédica<br />
+                            con barandas
                         </div>
                     </div>
                 </div>
@@ -231,20 +146,21 @@ document.getElementById('splideHolder').innerHTML = `
             </li>
             <li class="splide__slide">
                 <div class="div-block-24">
-                    <div data-w-id="af22760b-7890-1911-8886-edbe0453c123" class="div-block-25">
+                    <div data-w-id="b60123a7-ece7-74c1-3e4a-be32c86e4eab" class="div-block-25">
                         <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8).webp"
+                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7).webp"
                             loading="lazy"
                             sizes="100vw"
                             srcset="
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56e3ba8cf33c20ed0af_paciente-varon-enfermo-cama-hablando-enfermera%201%20(35).webp 500w,
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56e3ba8cf33c20ed0af_paciente-varon-enfermo-cama-hablando-enfermera%201%20(35).webp 549w
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7)-p-500.webp 500w,
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c2944ef212717e328b12_paciente-varon-enfermo-cama-hablando-enfermera%201%20(7).webp       549w
                             "
                             alt=""
                             class="image-38"
                         />
                         <div class="text-block-16">
-                            Estetoscopios<br />
+                            Monitores de<br />
+                            actividad cardiaca
                         </div>
                     </div>
                 </div>
@@ -264,8 +180,8 @@ document.getElementById('splideHolder').innerHTML = `
                             class="image-38"
                         />
                         <div class="text-block-16">
-                           Motor y colchón<br />
-                           antiescaras
+                           Motor y<br />
+                           colchón antiescaras
                         </div>
                     </div>
                 </div>
@@ -285,7 +201,28 @@ document.getElementById('splideHolder').innerHTML = `
                             class="image-38"
                         />
                         <div class="text-block-16">
-                           Muleta<br />                           
+                           Muletas<br />                           
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <!--https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64e4b0e6c60f8e004da4f76f_paciente-varon-enfermo-cama-hablando-enfermera%201%20(48).webp-->
+            <li class="splide__slide">
+                <div class="div-block-24">
+                    <div data-w-id="af22760b-7890-1911-8886-edbe0453c123" class="div-block-25">
+                        <img
+                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8).webp"
+                            loading="lazy"
+                            sizes="100vw"
+                            srcset="
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64e4b0e6c60f8e004da4f76f_paciente-varon-enfermo-cama-hablando-enfermera%201%20(48).webp 500w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64e4b0e6c60f8e004da4f76f_paciente-varon-enfermo-cama-hablando-enfermera%201%20(48).webp 549w
+                            "
+                            alt=""
+                            class="image-38"
+                        />
+                        <div class="text-block-16">
+                           Nebulizadores<br />                           
                         </div>
                     </div>
                 </div>
@@ -339,14 +276,36 @@ document.getElementById('splideHolder').innerHTML = `
                             loading="lazy"
                             sizes="100vw"
                             srcset="
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56e570b6c05af806bc0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(41).webp 500w,
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56e570b6c05af806bc0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(41).webp 549w
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64e4b200d9fb00f27e016208_paciente-varon-enfermo-cama-hablando-enfermera%201%20(50).webp 500w,
+                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64e4b200d9fb00f27e016208_paciente-varon-enfermo-cama-hablando-enfermera%201%20(50).webp 549w
                             "
                             alt=""
                             class="image-38"
                         />
                         <div class="text-block-16">
-                           Reguladores de oxigeno<br />                           
+                           Reguladores y<br />                           
+                           tubos de oxígeno
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="splide__slide">
+                <div class="div-block-24">
+                    <div data-w-id="d0e902d4-3f13-ceaf-aec7-a89697c91f96" class="div-block-25">
+                        <img
+                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c26804e004c0f04b57e0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(4).webp"
+                            loading="lazy"
+                            sizes="100vw"
+                            srcset="
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c26804e004c0f04b57e0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(4)-p-500.webp 500w,
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c26804e004c0f04b57e0_paciente-varon-enfermo-cama-hablando-enfermera%201%20(4).webp       549w
+                            "
+                            alt=""
+                            class="image-38"
+                        />
+                        <div class="text-block-16">
+                            Sillas<br />
+                            de ruedas
                         </div>
                     </div>
                 </div>
@@ -433,26 +392,25 @@ document.getElementById('splideHolder').innerHTML = `
             </li>
             <li class="splide__slide">
                 <div class="div-block-24">
-                    <div data-w-id="af22760b-7890-1911-8886-edbe0453c123" class="div-block-25">
+                    <div data-w-id="5c241397-7acc-8b78-cd98-9781aee7a83f" class="div-block-25">
                         <img
-                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c29d2c628886f858b736_paciente-varon-enfermo-cama-hablando-enfermera%201%20(8).webp"
+                            src="https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c279974f1c1eee01d07c_paciente-varon-enfermo-cama-hablando-enfermera%201%20(5).webp"
                             loading="lazy"
                             sizes="100vw"
                             srcset="
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56fbcb06643ade1d237_paciente-varon-enfermo-cama-hablando-enfermera%201%20(46).webp 500w,
-                            https://uploads-ssl.webflow.com/6487502c33708c10f0885323/64dbf56fbcb06643ade1d237_paciente-varon-enfermo-cama-hablando-enfermera%201%20(46).webp 549w
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c279974f1c1eee01d07c_paciente-varon-enfermo-cama-hablando-enfermera%201%20(5)-p-500.webp 500w,
+                                https://uploads-ssl.webflow.com/6487502c33708c10f0885323/6491c279974f1c1eee01d07c_paciente-varon-enfermo-cama-hablando-enfermera%201%20(5).webp       549w
                             "
                             alt=""
                             class="image-38"
                         />
                         <div class="text-block-16">
-                           Tubos de oxigeno<br />                           
+                            Material<br />
+                            descartable
                         </div>
                     </div>
                 </div>
             </li>
-
-            
         <!---->
         </ul>
     </div>
